@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs" Space="C-S">
+  <Alias Key="Model" Value="GanttChartEntity" />
+  <Alias Key="Target" Value="GanttChartEntity.Store" />
+  <EntityContainerMapping CdmEntityContainer="GanttChartEntityContainer" StorageEntityContainer="GanttChartEntityStoreContainer">
+    <EntitySetMapping Name="Employees">
+      <EntityTypeMapping TypeName="GanttChartEntity.Employee">
+        <MappingFragment StoreEntitySet="Employee">
+          <ScalarProperty Name="DeptId" ColumnName="DeptId" />
+          <ScalarProperty Name="Salary" ColumnName="Salary" />
+          <ScalarProperty Name="EmpName" ColumnName="EmpName" />
+          <ScalarProperty Name="EmpId" ColumnName="EmpId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

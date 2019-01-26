@@ -1,0 +1,12 @@
+C:\Users\Manish.Sahu\source\repos\TestProject\Service.DataAccess\bin\Debug\Service.DataAccess.dll.config
+C:\Users\Manish.Sahu\source\repos\TestProject\Service.DataAccess\bin\Debug\Service.DataAccess.dll
+C:\Users\Manish.Sahu\source\repos\TestProject\Service.DataAccess\bin\Debug\Service.DataAccess.pdb
+C:\Users\Manish.Sahu\source\repos\TestProject\Service.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Manish.Sahu\source\repos\TestProject\Service.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Manish.Sahu\source\repos\TestProject\Service.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Manish.Sahu\source\repos\TestProject\Service.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Manish.Sahu\source\repos\TestProject\Service.DataAccess\obj\Debug\Service.DataAccess.csprojAssemblyReference.cache
+C:\Users\Manish.Sahu\source\repos\TestProject\Service.DataAccess\obj\Debug\Service.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Manish.Sahu\source\repos\TestProject\Service.DataAccess\obj\Debug\Service.DataAccess.csproj.CopyComplete
+C:\Users\Manish.Sahu\source\repos\TestProject\Service.DataAccess\obj\Debug\Service.DataAccess.dll
+C:\Users\Manish.Sahu\source\repos\TestProject\Service.DataAccess\obj\Debug\Service.DataAccess.pdb

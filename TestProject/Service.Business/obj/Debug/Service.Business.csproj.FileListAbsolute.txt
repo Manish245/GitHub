@@ -1,0 +1,14 @@
+C:\Users\Manish.Sahu\source\repos\TestProject\Service.Business\bin\Debug\Service.Business.dll
+C:\Users\Manish.Sahu\source\repos\TestProject\Service.Business\bin\Debug\Service.Business.pdb
+C:\Users\Manish.Sahu\source\repos\TestProject\Service.Business\bin\Debug\Service.DataAccess.dll
+C:\Users\Manish.Sahu\source\repos\TestProject\Service.Business\bin\Debug\Service.Model.dll
+C:\Users\Manish.Sahu\source\repos\TestProject\Service.Business\bin\Debug\EntityFramework.dll
+C:\Users\Manish.Sahu\source\repos\TestProject\Service.Business\bin\Debug\Service.DataAccess.pdb
+C:\Users\Manish.Sahu\source\repos\TestProject\Service.Business\bin\Debug\Service.DataAccess.dll.config
+C:\Users\Manish.Sahu\source\repos\TestProject\Service.Business\bin\Debug\Service.Model.pdb
+C:\Users\Manish.Sahu\source\repos\TestProject\Service.Business\bin\Debug\EntityFramework.xml
+C:\Users\Manish.Sahu\source\repos\TestProject\Service.Business\obj\Debug\Service.Business.csprojAssemblyReference.cache
+C:\Users\Manish.Sahu\source\repos\TestProject\Service.Business\obj\Debug\Service.Business.csproj.CoreCompileInputs.cache
+C:\Users\Manish.Sahu\source\repos\TestProject\Service.Business\obj\Debug\Service.Business.csproj.CopyComplete
+C:\Users\Manish.Sahu\source\repos\TestProject\Service.Business\obj\Debug\Service.Business.dll
+C:\Users\Manish.Sahu\source\repos\TestProject\Service.Business\obj\Debug\Service.Business.pdb

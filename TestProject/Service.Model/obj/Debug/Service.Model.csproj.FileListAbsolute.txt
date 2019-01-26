@@ -1,0 +1,6 @@
+C:\Users\Manish.Sahu\source\repos\TestProject\Service.Model\bin\Debug\Service.Model.dll
+C:\Users\Manish.Sahu\source\repos\TestProject\Service.Model\bin\Debug\Service.Model.pdb
+C:\Users\Manish.Sahu\source\repos\TestProject\Service.Model\obj\Debug\Service.Model.csprojAssemblyReference.cache
+C:\Users\Manish.Sahu\source\repos\TestProject\Service.Model\obj\Debug\Service.Model.csproj.CoreCompileInputs.cache
+C:\Users\Manish.Sahu\source\repos\TestProject\Service.Model\obj\Debug\Service.Model.dll
+C:\Users\Manish.Sahu\source\repos\TestProject\Service.Model\obj\Debug\Service.Model.pdb

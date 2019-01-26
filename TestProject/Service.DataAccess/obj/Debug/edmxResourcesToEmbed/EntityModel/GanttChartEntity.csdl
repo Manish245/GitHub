@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="GanttChartEntity" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="GanttChartEntityContainer" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Employees" EntityType="GanttChartEntity.Employee" />
+  </EntityContainer>
+  <EntityType Name="Employee">
+    <Key>
+      <PropertyRef Name="EmpId" />
+    </Key>
+    <Property Name="EmpId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="EmpName" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="Salary" Type="Int64" />
+    <Property Name="DeptId" Type="Int64" />
+  </EntityType>
+</Schema>
